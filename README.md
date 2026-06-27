@@ -69,8 +69,6 @@ const apiKey = "YOUR_API_KEY";
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Weather Search
 
 ![Weather Search](image.png)
